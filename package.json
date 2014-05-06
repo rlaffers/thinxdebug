@@ -5,8 +5,8 @@
   "description": "Adds toolbar buttons for switching Xdebug remote debugging and profiling.",
   "author": "Richard Laffers",
   "license": "MPL 2.0",
-  "version": "1.0",
-  "icon": "data/bug.png",
+  "version": "1.1",
+  "icon": "data/icon.png",
   "homepage": "https://github.com/rlaffers/thinxdebug",
   "preferences": [
     {
