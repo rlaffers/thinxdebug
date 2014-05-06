@@ -2,9 +2,10 @@
   "name": "thin-xdebug",
   "title": "Thin Xdebug",
   "id": "jid1-HJoiKLuy4FR9kw",
-  "description": "Switch buttons for Xdebug remote debugging and profiling.",
+  "description": "Adds toolbar buttons for switching Xdebug remote debugging and profiling.",
   "author": "Richard Laffers",
   "license": "MPL 2.0",
-  "version": "0.1",
-  "icon": "data/bug.png"
+  "version": "0.2",
+  "icon": "data/bug.png",
+  "homepage": "https://github.com/rlaffers/thinxdebug"
 }
