@@ -23,3 +23,6 @@ git clone https://github.com/rlaffers/thinxdebug.git
 cd thinxdebug.git
 cfx xpi
 ```
+
+## Preferences
+By default, the *Start debugging* button creates a cookie with value "netbeans-xdebug" as expected by Netbeans IDE. You may want to change this value to something else via [Add-ons Manager](https://support.mozilla.org/en-US/kb/extensions-add-features-to-firefox?redirectlocale=en-US&redirectslug=Using+extensions+with+Firefox#w_how-to-change-extension-settings).

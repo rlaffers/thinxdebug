@@ -5,7 +5,16 @@
   "description": "Adds toolbar buttons for switching Xdebug remote debugging and profiling.",
   "author": "Richard Laffers",
   "license": "MPL 2.0",
-  "version": "0.2",
+  "version": "1.0",
   "icon": "data/bug.png",
-  "homepage": "https://github.com/rlaffers/thinxdebug"
+  "homepage": "https://github.com/rlaffers/thinxdebug",
+  "preferences": [
+    {
+        "name": "ideKey",
+        "title": "IDE key",
+        "description": "Cookie value for starting the debug session expected by your IDE",
+        "type": "string",
+        "value": "netbeans-xdebug"
+    }
+  ]
 }
