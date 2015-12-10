@@ -17,4 +17,5 @@
         "value": "netbeans-xdebug"
     }
   ]
+  "permissions": {"private-browsing": true}
 }
